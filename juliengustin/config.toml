@@ -36,7 +36,7 @@ SEOTitle = "Julien Gustin"
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Msc Data science at @ULiege, AI Enthusiast and Life Adventurer"
+  sidebar_about_description = "Msc Data science at the university of Liège, AI Enthusiast and Life Adventurer"
   sidebar_avatar = "img/me.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false 

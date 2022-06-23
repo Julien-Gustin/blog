@@ -1,16 +1,21 @@
 ---
 layout:     post
 title:      "Curriculum Vitae"
-# subtitle:   "How to seet up this theme"
+subtitle:   "About me and my projects"
 date:       2022-06-23
 author:     "Julien"
+description: "My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at @Uliege in Belgium. I am passionate about AI and more mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing."
 # image:      "httpes://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
+
+
 
 # About me
 
 My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at [@Uliege](https://www.uliege.be/cms/c_8699436/en/portail-uliege) in Belgium. I am passionate about AI and more mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing. 
 
+
+---
 # Education
 
 - MSc. in Data Science | [University of Liege](https://www.uliege.be/cms/c_8699436/en/portail-uliege)
@@ -18,6 +23,7 @@ My name is Julien Gustin I am 22 and I am currently pursuing master studies in D
 - BSc. in Computer Science | [University of Liege](https://www.uliege.be/cms/c_8699436/en/portail-uliege)
   - 2018 - 2021
 
+--- 
 # Projects
 
 ### [Image colorization](https://github.com/Julien-Gustin/Image-Colorization)
@@ -48,8 +54,8 @@ The Double Inverted Pendulum consists of two joint pendulums connected to a cart
 
 ![pendule](/img/projects/pendulum/pendule.png)
 
-## More project available on my [github](https://github.com/Julien-Gustin)
-
+## More projects are available on my [github](https://github.com/Julien-Gustin)
+---
 
 # Link to PDF version
 
