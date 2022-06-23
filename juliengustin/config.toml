@@ -1,4 +1,4 @@
-baseurl = "https://juliengustin.github.io/"
+baseurl = "https://julien-gustin.github.io/"
 title = "Julien Gustin"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
