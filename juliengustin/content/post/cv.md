@@ -28,7 +28,7 @@ My name is Julien Gustin I am 22 and I am currently pursuing master studies in D
 
 ### [Image colorization](https://github.com/Julien-Gustin/Image-Colorization)
 
-Given a grayscale image, we automatically colorize it without any user input. To achieve so, we have build and train a conditional generative adversarial network (cGAN) from scratch.
+Given a grayscale image, we automatically colorize it without any user input. To achieve so, we built and trained a conditional generative adversarial network (cGAN) from scratch. Our neural network has to understand the different elements present on an image (segmentation) and recolor them in a coherent way for a human. We started from an architecture that has already proven itself from existing works (cfr. Pix2Pix). Understand the architecture in depth, then try variations in order to make it ours and improve it.
 
 ![colorization](/img/sky.png)
 
@@ -41,7 +41,8 @@ Given a grayscale image, we automatically colorize it without any user input. To
 
 ### [Smart-Heating](https://github.com/Julien-Gustin/Smart-heating)
 
-The goal of this project is to develop a thermal model of the building and fit the parameters of this model based on the temperature measurements of the rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly use model predictive control to minimize the temperature difference between the room temperature and the set temperature.
+The objective of this project is to develop a thermal model of the building and to adjust the parameters of this model based on measurements of the building's ambient temperature, setpoint temperatures, outdoor temperature and heating outputs. Then to use this model to control the switches and the heating temperature with model predictive control (MPC) in order to minimise the temperature difference between the room temperature and the setpoint temperature.
+
 
 ![heater](/img/projects/heater/kitchen.png)
 
@@ -50,11 +51,11 @@ The goal of this project is to develop a thermal model of the building and fit t
 
 The Double Inverted Pendulum consists of two joint pendulums connected to a cart that is moving on a track, the agent needs to keeps in equilibrium the Double Inverted Pendulum by interacting with the environment by applying an horizontal force on a cart. At each transition, additionally to the reward given by the environment, the agent receives a positive, constant signal. A terminal state of the environment is reached when the distance between the upright and the current state is above a given thresold.
 
-
-
 ![pendule](/img/projects/pendulum/pendule.png)
 
-## More projects are available on my [github](https://github.com/Julien-Gustin)
+
+**More projects are available on my [github](https://github.com/Julien-Gustin)**
+
 ---
 
 # Link to PDF version
