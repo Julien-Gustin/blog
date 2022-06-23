@@ -6,7 +6,7 @@ date:       2022-06-23
 author:     "Julien"
 # image:      "httpes://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
-[CV](/img/Julien_Gustin_CV.pdf)
+
 # About me
 
 My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at [@Uliege](https://www.uliege.be/cms/c_8699436/en/portail-uliege) in Belgium. I am passionate about AI and more mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing. 
@@ -35,9 +35,10 @@ Given a grayscale image, we automatically colorize it without any user input. To
 
 ### [Smart-Heating](https://github.com/Julien-Gustin/Smart-heating)
 
-![colorization](/img/projects/heater/kitchen.png)
+The goal of this project is to develop a thermal model of the building and fit the parameters of this model based on the temperature measurements of the rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly use model predictive control to minimize the temperature difference between the room temperature and the set temperature.
 
-The goal of this project is to develop a thermal model of the building and fit the parameters of this model based on the temperature measurements of the rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly use model predictive control to minimize the temperature difference between the room temperature and the set temperature
+![heater](/img/projects/heater/kitchen.png)
+
 
 ### [Inverted double pendulum](https://github.com/Julien-Gustin/Inverted-Double-pendulum)
 
@@ -50,3 +51,6 @@ The Double Inverted Pendulum consists of two joint pendulums connected to a cart
 ## More project available on my [github](https://github.com/Julien-Gustin)
 
 
+# Link to PDF version
+
+[CV](/img/Julien_Gustin_CV.pdf)
