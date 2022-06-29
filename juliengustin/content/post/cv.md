@@ -4,7 +4,7 @@ title:      "Curriculum Vitae"
 subtitle:   "About me and my projects"
 date:       2022-06-23
 author:     "Julien"
-description: "My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at @Uliege in Belgium. I am passionate about AI and mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing."
+description: "My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at @Uliege in Belgium. I am passionate about AI and mostly about deep learning, during my free time I like photography, traveling, hiking and climbing."
 # image:      "httpes://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
 
@@ -12,7 +12,7 @@ description: "My name is Julien Gustin I am 22 and I am currently pursuing maste
 
 # About me
 
-My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at [@Uliege](https://www.uliege.be/cms/c_8699436/en/portail-uliege) in Belgium. I am passionate about AI and mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing. 
+My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at [@Uliege](https://www.uliege.be/cms/c_8699436/en/portail-uliege) in Belgium. I am passionate about AI and mostly about deep learning, during my free time I like photography, traveling, hiking and climbing. 
 
 
 ---
